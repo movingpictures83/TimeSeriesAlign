@@ -1,0 +1,2 @@
+tsvfile	inputfile.tsv
+useSplines	True

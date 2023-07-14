@@ -1,0 +1,2 @@
+Prefix plugins/TimeSeriesAlign/example/
+Plugin TimeSeriesAlign inputfile parameters.txt outputfile ranking.tsv
